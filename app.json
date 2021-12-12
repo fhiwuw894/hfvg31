@@ -1,13 +1,13 @@
 {
-  "name": "随便",
-  "description": "随便",
+  "name": "eyu",
+  "description": "gr",
   "keywords": [
-    "随便"
+    "fr"
   ],
   "env": {
     "PROTOCOL": {
-      "description": "协议VMess或VLESS，请填小写的vmess或vless",
-      "value": "vmess",
+      "description": "vless",
+      "value": "vless",
       "required": true
     },
     "UUID": {
@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/用户名/仓库名",
-  "repository": "https://github.com/用户名/仓库名",
+  "website": "https://github.com/fhiwuw894/hfvg31",
+  "repository": "https://github.com/fhiwuw894/hfvg31",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
